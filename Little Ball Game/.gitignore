@@ -1,0 +1,22 @@
+# Pasta Library e Temp (desnecessárias)
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+
+# Arquivos da Unity que não precisam ser versionados
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Configurações Locais do Editor
+.vscode/
+.idea/
