@@ -7,13 +7,6 @@ Este é o meu primeiro jogo 2D desenvolvido na Unity como parte do curso no cana
 - Made with **Unity 6** | Feito com **Unity 6**
 - Developed for **PC** | Desenvolvido para **PC**
 
-## How to Play | Como Jogar
-
-1. Download the `.rar` file. | Baixe o arquivo `.rar`.
-2. Extract the contents to a folder of your choice. | Extraia o conteúdo para uma pasta de sua escolha.
-3. Run the executable. | Inicie o executável.
-4. Have fun! | Divirta-se!
-
 ## Future Improvements | Melhorias Futuras
 
 - New levels and challenges | Novas fases e desafios
