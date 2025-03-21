@@ -18,7 +18,8 @@ Bem-vindo ao meu repositório **Test-Projects**! Aqui, você encontrará meus pr
 - **C#**  
 - **Unity**  
 - **Unreal Engine**  
-- **Other tools and engines (as I progress)**  
+- **Other tools and engines (as I progress)**
+    - **Outras ferramentas e engines (à medida que eu evoluo)**  
 
 ## How to Run | Como Rodar
 
@@ -32,4 +33,5 @@ Bem-vindo ao meu repositório **Test-Projects**! Aqui, você encontrará meus pr
 ## Contributions | Contribuições
 
 Feel free to contribute by opening a pull request or an issue if you have suggestions, feedback, or improvements!  
+
 Fique à vontade para contribuir abrindo um pull request ou uma issue se tiver sugestões, feedback ou melhorias!
