@@ -15,7 +15,7 @@ Este é o meu primeiro jogo 2D desenvolvido na Unity como parte do curso no cana
 
 ---
 
-Made by [Filipevbr](https://github.com/filipevbr) 😃
+Made by [filipevbr](https://github.com/filipevbr) 😃
 
 ## Credits for the assets used in the project! | Créditos dos Assets usados no projeto!
 
