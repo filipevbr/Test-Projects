@@ -19,12 +19,12 @@ Bem-vindo ao meu repositório **Test-Projects**! Aqui, você encontrará meus pr
 - **Unity**  
 - **Unreal Engine**  
 - **Other tools and engines (as I progress)**
-    - **Outras ferramentas e engines (à medida que eu evoluo)**  
+    - **Outras ferramentas e engines (conforme eu evoluo)**  
 
 ## How to Run | Como Rodar
 
-1. Clone this repository.  
-   1. Clone este repositório.
+1. Clone the project.  
+   1. Clone o projeto.
 2. Open the project in the respective engine (e.g., Unity, Unreal Engine).  
    2. Abra o projeto no respectivo motor (ex: Unity, Unreal Engine).
 3. Run the project in the editor to test and explore the features.  
